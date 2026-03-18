@@ -1,9 +1,4 @@
-
-  # Create new design
-
-  This is a code bundle for Create new design. The original project is available at https://www.figma.com/design/mWR3C8CCSpsXg3ZAvN4T4K/Create-new-design.
-
-  ## Running the code
+## Running the code
 
   Run `npm i` to install the dependencies.
 
